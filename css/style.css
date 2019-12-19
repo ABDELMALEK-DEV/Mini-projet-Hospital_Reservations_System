@@ -1,0 +1,24 @@
+*{
+    font-family: 'janna lt';
+    
+    box-sizing: border-box;
+}
+
+.logo {
+    text-align: center;
+}
+
+.logo img {
+    width: 100px;
+    
+}
+
+.logo p {
+    font-size: 30px;
+}
+
+  table{
+            width: 100%;
+            text-align: center;
+            border-collapse: collapse;
+        }
